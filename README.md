@@ -3,9 +3,9 @@
 ---
 
 ## Project Description
-An automatic car headlight control system using **Arduino** and **OpenCV**.  
+- An automatic car headlight control system using **Arduino** and **OpenCV**.  
 The system uses YOLOv3-based object detection to identify vehicles in real-time from a video stream or webcam. Based on detection, it controls the car's headlights by communicating with Arduino using the `pyfirmata2` library. This ensures smart switching between high beam and low beam to improve driving safety.
-
+- [Demonstration video](https://www.linkedin.com/posts/kartik-verma-2969a71ab_arduino-opencv-computervision-activity-7373708451782324224-Zl0z?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADEXNtIBY58IUKipPE6HyE3g9RW9TH1jyWc)
 ---
 
 ## Features
